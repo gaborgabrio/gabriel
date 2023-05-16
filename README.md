@@ -1,2 +1,4 @@
 # gabriel
-esto es nuevo para git
+cambios en el archivo 
+otro cambios mas
+
